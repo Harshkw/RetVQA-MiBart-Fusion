@@ -1,0 +1,17 @@
+
+Epoch 1: 16.82485416467438
+Atleast one Correct per Question in Epoch 1: 30.663670268719518
+Epoch 2: 17.201396193937075
+Atleast one Correct per Question in Epoch 2: 31.290044945969207
+Epoch 3: 17.379506550635938
+Atleast one Correct per Question in Epoch 3: 31.622358228937554
+Epoch 4: 17.518169647126328
+Atleast one Correct per Question in Epoch 4: 31.969015970163525
+Epoch 5: 17.2886583150043
+Atleast one Correct per Question in Epoch 5: 31.61757674285168
+Epoch 6: 17.530123362341016
+Atleast one Correct per Question in Epoch 6: 31.97857894233528
+Epoch 7: 17.317347231519555
+Atleast one Correct per Question in Epoch 7: 31.68929903413981
+Epoch 8: 17.638902170794683
+Atleast one Correct per Question in Epoch 8: 32.069427177966915
