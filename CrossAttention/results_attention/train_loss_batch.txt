@@ -1,0 +1,7 @@
+Epoch [4/40], Train Loss batch 0: 20486.275390625
+Epoch [4/40], Train Loss batch 20: 20490.564453125
+Epoch [4/40], Train Loss batch 40: 19962.5625
+Epoch [4/40], Train Loss batch 60: 20662.27734375
+Epoch [4/40], Train Loss batch 80: 20719.13671875
+Epoch [4/40], Train Loss batch 100: 20811.42578125
+Epoch [4/40], Train Loss batch 120: 20446.564453125

@@ -1,0 +1,12 @@
+Epoch [1/40], Train Loss Final: 2765.217529296875
+Epoch [2/40], Train Loss Final: 3191.425048828125
+Epoch [3/40], Train Loss Final: 3358.756591796875
+Epoch [4/40], Train Loss Final: 3137.077392578125
+Epoch [5/40], Train Loss Final: 3417.391845703125
+Epoch [6/40], Train Loss Final: 2869.625732421875
+Epoch [7/40], Train Loss Final: 2982.60888671875
+Epoch [8/40], Train Loss Final: 2978.321044921875
+Epoch [9/40], Train Loss Final: 2978.321044921875
+Epoch [10/40], Train Loss Final: 3626.2080078125
+Epoch [11/40], Train Loss Final: 3195.712890625
+Epoch [12/40], Train Loss Final: 3036.95654296875

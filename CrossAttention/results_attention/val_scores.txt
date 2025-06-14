@@ -1,0 +1,9 @@
+Epoch 1: 69.58018552166013
+Atleast one Correct per Question in Epoch 1: 98.32887061298652
+Atleast two Correct per Question in Epoch 1: 40.83150043033375
+Epoch 2: 69.58257626470306
+Atleast one Correct per Question in Epoch 2: 98.33126135602946
+Atleast two Correct per Question in Epoch 2: 40.833891173376685
+Epoch 3: 69.58257626470306
+Atleast one Correct per Question in Epoch 3: 98.33126135602946
+Atleast two Correct per Question in Epoch 3: 40.833891173376685

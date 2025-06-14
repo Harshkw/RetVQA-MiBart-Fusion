@@ -1,0 +1,33 @@
+Epoch 1: 69.57899015013867
+Atleast one Correct per Question in Epoch 1: 98.32887061298652
+Atleast two Correct per Question in Epoch 1: 40.82910968729081
+Epoch 2: 69.57899015013867
+Atleast one Correct per Question in Epoch 2: 98.32887061298652
+Atleast two Correct per Question in Epoch 2: 40.82910968729081
+Epoch 3: 69.57181792100985
+Atleast one Correct per Question in Epoch 3: 98.31691689777183
+Atleast two Correct per Question in Epoch 3: 40.82671894424787
+Epoch 4: 69.58257626470306
+Atleast one Correct per Question in Epoch 4: 98.33126135602946
+Atleast two Correct per Question in Epoch 4: 40.833891173376685
+Epoch 5: 69.58257626470306
+Atleast one Correct per Question in Epoch 5: 98.33126135602946
+Atleast two Correct per Question in Epoch 5: 40.833891173376685
+Epoch 6: 69.58377163622454
+Atleast one Correct per Question in Epoch 6: 98.33126135602946
+Atleast two Correct per Question in Epoch 6: 40.83628191641962
+Epoch 7: 69.58377163622454
+Atleast one Correct per Question in Epoch 7: 98.33126135602946
+Atleast two Correct per Question in Epoch 7: 40.83628191641962
+Epoch 8: 69.58377163622454
+Atleast one Correct per Question in Epoch 8: 98.33126135602946
+Atleast two Correct per Question in Epoch 8: 40.83628191641962
+Epoch 9: 69.584967007746
+Atleast one Correct per Question in Epoch 9: 98.33126135602946
+Atleast two Correct per Question in Epoch 9: 40.83867265946256
+Epoch 10: 69.584967007746
+Atleast one Correct per Question in Epoch 10: 98.33126135602946
+Atleast two Correct per Question in Epoch 10: 40.83867265946256
+Epoch 11: 69.584967007746
+Atleast one Correct per Question in Epoch 11: 98.33126135602946
+Atleast two Correct per Question in Epoch 11: 40.83867265946256

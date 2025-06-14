@@ -1,0 +1,120 @@
+Epoch 1: 36.87840680883619
+Atleast one Correct per Question in Epoch 1: 61.35124796786841
+Atleast two Correct per Question in Epoch 1: 12.40556564980396
+Epoch 2: 36.911877211437314
+Atleast one Correct per Question in Epoch 2: 61.43492397437124
+Atleast two Correct per Question in Epoch 2: 12.388830448503395
+Epoch 3: 36.91307258295878
+Atleast one Correct per Question in Epoch 3: 61.39906282872717
+Atleast two Correct per Question in Epoch 3: 12.427082337190399
+Epoch 4: 36.98359950272545
+Atleast one Correct per Question in Epoch 4: 61.57119632781868
+Atleast two Correct per Question in Epoch 4: 12.396002677632207
+Epoch 5: 37.12106722769437
+Atleast one Correct per Question in Epoch 5: 61.72898536865258
+Atleast two Correct per Question in Epoch 5: 12.513149086736158
+Epoch 6: 37.12823945682318
+Atleast one Correct per Question in Epoch 6: 61.72659462560964
+Atleast two Correct per Question in Epoch 6: 12.529884288036722
+Epoch 7: 37.345797073730516
+Atleast one Correct per Question in Epoch 7: 62.05173567944917
+Atleast two Correct per Question in Epoch 7: 12.639858468011859
+Epoch 8: 37.84307162666157
+Atleast one Correct per Question in Epoch 8: 62.72114373147174
+Atleast two Correct per Question in Epoch 8: 12.964999521851391
+Epoch 9: 37.505976857607344
+Atleast one Correct per Question in Epoch 9: 62.18083580376781
+Atleast two Correct per Question in Epoch 9: 12.831117911446878
+Epoch 10: 37.90044945969207
+Atleast one Correct per Question in Epoch 10: 62.78569379363106
+Atleast two Correct per Question in Epoch 10: 13.015205125753084
+Epoch 11: 38.28655446112652
+Atleast one Correct per Question in Epoch 11: 63.450320359567755
+Atleast two Correct per Question in Epoch 11: 13.122788562685283
+Epoch 12: 38.28774983264799
+Atleast one Correct per Question in Epoch 12: 63.340346179592615
+Atleast two Correct per Question in Epoch 12: 13.235153485703357
+Epoch 13: 38.4945491058621
+Atleast one Correct per Question in Epoch 13: 63.636798316916895
+Atleast two Correct per Question in Epoch 13: 13.352299894807306
+Epoch 14: 38.5483408243282
+Atleast one Correct per Question in Epoch 14: 63.74199101080616
+Atleast two Correct per Question in Epoch 14: 13.354690637850243
+Epoch 15: 38.66070574734628
+Atleast one Correct per Question in Epoch 15: 63.91651525294061
+Atleast two Correct per Question in Epoch 15: 13.404896241751937
+Epoch 16: 39.21416276178636
+Atleast one Correct per Question in Epoch 16: 64.67677154059481
+Atleast two Correct per Question in Epoch 16: 13.75155398297791
+Epoch 17: 38.692980778425934
+Atleast one Correct per Question in Epoch 17: 63.99301903031462
+Atleast two Correct per Question in Epoch 17: 13.392942526537247
+Epoch 18: 39.126900640719136
+Atleast one Correct per Question in Epoch 18: 64.50941952758917
+Atleast two Correct per Question in Epoch 18: 13.744381753849096
+Epoch 19: 38.99540977335756
+Atleast one Correct per Question in Epoch 19: 64.36836568805585
+Atleast two Correct per Question in Epoch 19: 13.622453858659272
+Epoch 20: 39.656450224729845
+Atleast one Correct per Question in Epoch 20: 65.24098689872812
+Atleast two Correct per Question in Epoch 20: 14.071913550731567
+Epoch 21: 39.381514774792
+Atleast one Correct per Question in Epoch 21: 64.82260686621402
+Atleast two Correct per Question in Epoch 21: 13.940422683369992
+Epoch 22: 39.851295782729274
+Atleast one Correct per Question in Epoch 22: 65.45854451563545
+Atleast two Correct per Question in Epoch 22: 14.244047049823084
+Epoch 23: 40.1226451181027
+Atleast one Correct per Question in Epoch 23: 65.85540786076312
+Atleast two Correct per Question in Epoch 23: 14.389882375442287
+Epoch 24: 40.22903318351344
+Atleast one Correct per Question in Epoch 24: 65.98450798508176
+Atleast two Correct per Question in Epoch 24: 14.473558381945109
+Epoch 25: 39.870421727072774
+Atleast one Correct per Question in Epoch 25: 65.58525389691115
+Atleast two Correct per Question in Epoch 25: 14.15558955723439
+Epoch 26: 40.333030505881226
+Atleast one Correct per Question in Epoch 26: 66.06340250549871
+Atleast two Correct per Question in Epoch 26: 14.602658506263747
+Epoch 27: 40.176436836568804
+Atleast one Correct per Question in Epoch 27: 65.93669312422301
+Atleast two Correct per Question in Epoch 27: 14.416180548914603
+Epoch 28: 40.10949603136655
+Atleast one Correct per Question in Epoch 28: 65.70479104905804
+Atleast two Correct per Question in Epoch 28: 14.51420101367505
+Epoch 29: 40.10949603136655
+Atleast one Correct per Question in Epoch 29: 65.70957253514392
+Atleast two Correct per Question in Epoch 29: 14.509419527589175
+Epoch 30: 40.2648943291575
+Atleast one Correct per Question in Epoch 30: 65.9677727837812
+Atleast two Correct per Question in Epoch 30: 14.562015874533806
+Epoch 31: 40.715549392751264
+Atleast one Correct per Question in Epoch 31: 66.53676962800039
+Atleast two Correct per Question in Epoch 31: 14.89432915750215
+Epoch 32: 40.10949603136655
+Atleast one Correct per Question in Epoch 32: 65.91517643683657
+Atleast two Correct per Question in Epoch 32: 14.30381562589653
+Epoch 33: 40.84943100315578
+Atleast one Correct per Question in Epoch 33: 66.73520130056421
+Atleast two Correct per Question in Epoch 33: 14.963660705747346
+Epoch 34: 40.54102515061681
+Atleast one Correct per Question in Epoch 34: 66.32638424022186
+Atleast two Correct per Question in Epoch 34: 14.755666061011762
+Epoch 35: 40.94625609639476
+Atleast one Correct per Question in Epoch 35: 66.93841445921393
+Atleast two Correct per Question in Epoch 35: 14.954097733575596
+Epoch 36: 40.814765229033185
+Atleast one Correct per Question in Epoch 36: 66.64196232188964
+Atleast two Correct per Question in Epoch 36: 14.987568136176725
+Epoch 37: 41.08013770679927
+Atleast one Correct per Question in Epoch 37: 67.03404418093143
+Atleast two Correct per Question in Epoch 37: 15.126231232667113
+Epoch 38: 40.52428994931625
+Atleast one Correct per Question in Epoch 38: 66.2594434350196
+Atleast two Correct per Question in Epoch 38: 14.789136463612891
+Epoch 39: 41.240317490676105
+Atleast one Correct per Question in Epoch 39: 67.25877402696759
+Atleast two Correct per Question in Epoch 39: 15.221860954384622
+Epoch 40: 40.26250358611456
+Atleast one Correct per Question in Epoch 40: 65.9486468394377
+Atleast two Correct per Question in Epoch 40: 14.576360332791431
